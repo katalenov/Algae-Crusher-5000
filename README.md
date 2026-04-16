@@ -1,2 +1,2 @@
 # Algae-Crusher-5000
-Repository for Arduino firmware and Python-based GUI code
+This repository contains all Arduino firmware and Python-based GUI code for operating the Algae Crusher 5000.
